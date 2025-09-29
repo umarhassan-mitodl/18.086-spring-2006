@@ -2,6 +2,8 @@
 content_type: page
 description: The readings section provides information on textbooks, and supplementary
   readings for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -18,9 +20,9 @@ Textbooks
 
 The principal textbooks for 18.086 are:
 
-Strang, Gilbert. _Introduction to Applied Mathematics._ Wellesley, MA: {{% resource_link "cd62636b-327a-42e9-8047-4eb5ed610189" "Wellesley-Cambridge Press" %}}, 1986. ISBN: 9780961408800. ({{% resource_link "e3e02fe3-981c-48fd-9805-665174828e91" "Table of Contents" %}})
+Strang, Gilbert. _Introduction to Applied Mathematics._ Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 1986. ISBN: 9780961408800. ([Table of Contents](http://www-math.mit.edu/~gs/books/itam_toc.html))
 
- ———. _Computational Science and Engineering_. Wellesley, MA: {{% resource_link "cd62636b-327a-42e9-8047-4eb5ed610189" "Wellesley-Cambridge Press" %}}, 2007. ISBN: 9780961408817.
+ ———. _Computational Science and Engineering_. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2007. ISBN: 9780961408817.
 
 Draft versions of chapters relevant to this course are available below.
 

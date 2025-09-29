@@ -5,6 +5,8 @@ description: This file is a supporting file for the homework assignment 2 for th
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/8675473e208546dd96508ca9a3542b8b_Lax_friedrichs_1.m
 file_size: 2288
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

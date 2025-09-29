@@ -4,6 +4,8 @@ description: This file includes a problem to develop a code.
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/9777b6ddd5c7818821119f8e575d48f7_homework3.pdf
 file_size: 54517
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

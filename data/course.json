@@ -35,6 +35,7 @@
     "website": "18-086-mathematical-methods-for-engineers-ii-spring-2006"
   },
   "course_title": "Mathematical Methods for Engineers II",
+  "hide_download": true,
   "course_description": "This graduate-level course is a continuation of Mathematical Methods for Engineers I (18.085). Topics include numerical methods; initial-value problems; network flows; and optimization.\n",
   "department_numbers": [
     "18"
@@ -45,6 +46,7 @@
     "content": "91adf125-8dca-9cc1-cf47-d711c832bd86",
     "website": "18-086-mathematical-methods-for-engineers-ii-spring-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Projects with Examples",

@@ -2,6 +2,8 @@
 content_type: page
 description: This assignments section provides information on the assigned homeworks
   and supporting files to complete these assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -78,7 +80,7 @@ Assignments from Spring 2005
 
 There will be occasional homework assignments to give experience with the ideas and numerical methods and software that are discussed in class. Homework is assigned in the course textbook:
 
-Strang, Gilbert. _Introduction to Applied Mathematics_. Wellesley, MA: {{% resource_link "cd62636b-327a-42e9-8047-4eb5ed610189" "Wellesley-Cambridge Press" %}}, 1986. ISBN: 0961408804.
+Strang, Gilbert. _Introduction to Applied Mathematics_. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 1986. ISBN: 0961408804.
 
 {{< tableopen >}}
 {{< theadopen >}}

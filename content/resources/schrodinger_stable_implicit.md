@@ -4,6 +4,8 @@ description: This is a supporting file for Homework assignment 2.
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/9ca69deb6d3087118403bf7b103d08b5_schrodinger_stable_implicit.m
 file_size: 568
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

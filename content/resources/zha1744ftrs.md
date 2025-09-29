@@ -4,6 +4,8 @@ description: ''
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/e4e7534de5f4092ba01406806276e507_zha1744fTRs.srt
 file_size: 55311
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
