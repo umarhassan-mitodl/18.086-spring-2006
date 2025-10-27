@@ -14,17 +14,17 @@ video_metadata:
 ---
 ## Papers
 
-Chan, Tony, and Henk A. Van der Vorst. "[Approximate and Incomplete Factorizations](https://doi.org/10.1007/978-94-011-5412-3_6)."
+Chan, Tony, and Henk A. Van der Vorst. "{{% resource_link "2f3d06c5-5a2c-4914-8f83-5d88be57f284" "Approximate and Incomplete Factorizations" %}}."
 
-Benzi, M., G. H. Golub, and J. Liesen. "[Numerical Solution of Saddle Point Problems](https://www.cambridge.org/core/journals/acta-numerica/article/abs/numerical-solution-of-saddle-point-problems/2596C5D03B23AF89FE5A756891029B12)." *Acta Numerica* 14 (2005): 1-137. 
+Benzi, M., G. H. Golub, and J. Liesen. "{{% resource_link "f1b1af1f-4ccb-45f9-aa5f-c85fc8f7c134" "Numerical Solution of Saddle Point Problems" %}}." *Acta Numerica* 14 (2005): 1-137. 
 
 ## MATLAB® Documentation
 
-[MATLAB® Technical Documentation](http://www.mathworks.com/access/helpdesk/help/techdoc/matlab.shtml)
+{{% resource_link "bd6563b5-d426-4d2e-ae3b-f967359da74c" "MATLAB® Technical Documentation" %}}
 
-[Documentation for MathWorks Products, R2006a](https://www.mathworks.com/help/doc-archives.html)
+{{% resource_link "6e31fe07-9f99-4c58-b272-b35a6a2c6ca5" "Documentation for MathWorks Products, R2006a" %}}
 
-[MATLAB® Mathematics Documentation](https://www.mathworks.com/help/matlab/)
+{{% resource_link "5f01ea22-d7fd-4cb9-a1ef-4cdcbd5b1ea9" "MATLAB® Mathematics Documentation" %}}
 
 ## Other Thoughts
 
