@@ -24,11 +24,11 @@ Calculus (18.02), Differential Equations ([18.03](/courses/18-03-differential-eq
 
 This course as taught during the Spring 2006 term on the MIT campus used the following text:
 
-Strang, Gilbert. *Introduction to Applied Mathematics.* Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 1986. ISBN: 9780961408800. ([Table of Contents](http://www-math.mit.edu/~gs/books/itam_toc.html))
+Strang, Gilbert. *Introduction to Applied Mathematics.* Wellesley, MA: {{% resource_link "7d647343-a895-487f-a06b-192dea70ca1a" "Wellesley-Cambridge Press" %}}, 1986. ISBN: 9780961408800. ({{% resource_link "3a1a5f10-6e82-4fe0-9bac-fee47db074d3" "Table of Contents" %}})
 
 Since that time, Professor Strang has published a new textbook that is being used for this course as it is currently taught on the MIT campus, as well as for Mathematical Methods for Engineers I (18.085). Information about the new book can be found at the **Wellesley-Cambridge Press** Web site, along with a link to Prof. Strang's new "Computational Science and Engineering" Web page developed as a resource for everyone learning and doing Computational Science and Engineering.
 
- Strang, Gilbert. *Computational Science and Engineering*. Wellesley, MA: [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2007. ISBN: 9780961408817.
+ Strang, Gilbert. *Computational Science and Engineering*. Wellesley, MA: {{% resource_link "7d647343-a895-487f-a06b-192dea70ca1a" "Wellesley-Cambridge Press" %}}, 2007. ISBN: 9780961408817.
 
 ## Description
 
