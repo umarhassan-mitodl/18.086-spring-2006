@@ -4,8 +4,6 @@ description: This is a supporting file for Homework assignment 1.
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/ee7821bdb810d648956b3ada84927f19_RK_2.m
 file_size: 383
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

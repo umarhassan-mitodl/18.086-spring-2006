@@ -4,8 +4,6 @@ description: This is a supporting file for Homework 2 assignment.
 file: /courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/e47b5c958a37d3b4c186e4389306aa4b_schrodinger_unstable.m
 file_size: 568
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
